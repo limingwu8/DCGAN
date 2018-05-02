@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c75bf15e-73da-48ac-a14b-c01b0b798d3f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/checkpoint/netD-01.pt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/checkpoint/netG-01.pt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img101.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img102.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img103.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img104.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img105.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img106.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img107.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img108.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img109.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img110.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img111.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img112.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img113.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img114.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img115.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img116.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img117.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img118.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img119.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img120.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img121.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img122.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img123.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img124.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img125.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img126.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img127.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img128.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img129.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img130.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img131.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img132.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img133.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img134.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img135.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img136.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img137.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img138.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img139.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img140.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img141.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img142.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img143.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img145.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img146.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img147.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img148.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img149.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img151.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img152.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img153.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img154.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img155.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img156.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img157.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img158.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img159.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img160.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img161.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img162.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img163.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img164.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img165.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img166.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img167.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img168.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img169.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img170.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img171.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img172.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img173.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img174.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img175.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img176.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img177.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img178.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img179.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img180.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img181.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img182.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img183.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img184.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img185.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img186.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img187.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img188.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img189.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img190.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img191.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img192.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img193.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img194.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img195.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img196.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img197.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img198.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img199.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img33.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img34.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img35.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img37.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img38.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img39.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img40.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img42.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img43.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img44.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img45.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img46.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img47.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img49.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img50.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img51.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img52.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img53.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img54.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img55.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img56.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img58.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img59.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img61.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img62.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img63.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img64.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img65.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img66.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img67.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img68.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img69.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img70.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img71.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img73.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img74.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img75.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img76.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img77.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img78.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img79.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img80.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img81.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img82.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img83.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img84.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img85.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img86.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img87.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img88.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img89.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img90.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img91.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img92.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img93.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img94.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img95.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img96.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img97.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img98.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCGAN-anime/images/img99.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/checkpoint/netD-01.pt" afterPath="$PROJECT_DIR$/DCGAN-mnist/checkpoint/netD-01.pt" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/checkpoint/netG-01.pt" afterPath="$PROJECT_DIR$/DCGAN-mnist/checkpoint/netG-01.pt" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img0.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img0.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img1.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img1.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img10.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img10.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img11.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img11.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img12.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img12.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img13.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img13.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img14.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img14.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img15.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img15.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img16.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img16.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img17.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img17.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img18.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img18.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img19.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img19.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img2.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img2.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img20.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img20.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img21.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img21.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img22.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img22.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img23.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img23.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img24.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img24.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img25.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img25.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img26.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img26.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img27.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img27.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img28.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img28.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img29.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img29.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img3.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img3.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img30.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img30.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img31.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img31.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img32.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img32.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img33.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img33.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img34.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img34.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img35.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img35.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img36.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img36.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img37.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img37.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img38.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img38.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img39.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img39.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img4.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img4.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img40.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img40.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img41.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img41.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img42.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img42.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img43.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img43.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img44.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img44.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img45.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img45.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img46.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img46.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img47.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img47.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img48.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img48.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img49.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img49.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img5.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img5.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img6.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img6.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img7.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img7.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img8.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img8.png" />
+      <change beforePath="$PROJECT_DIR$/DCGAN-mnist/images/img9.png" afterPath="$PROJECT_DIR$/DCGAN-mnist/images/img9.png" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DCGAN-anime/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DCGAN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DCGAN-anime/DCGAN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DCGAN-anime/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="78" column="20" lean-forward="false" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DCGAN-anime/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zero_grad</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Option.py" />
+        <option value="$PROJECT_DIR$/dataset.py" />
+        <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/DCGAN.py" />
+        <option value="$PROJECT_DIR$/DCGAN-mnist/utils.py" />
+        <option value="$PROJECT_DIR$/DCGAN-mnist/DCGAN.py" />
+        <option value="$PROJECT_DIR$/DCGAN-mnist/model.py" />
+        <option value="$PROJECT_DIR$/DCGAN-mnist/dataset.py" />
+        <option value="$PROJECT_DIR$/DCGAN-anime/dataset.py" />
+        <option value="$PROJECT_DIR$/DCGAN-anime/model.py" />
+        <option value="$PROJECT_DIR$/DCGAN-anime/DCGAN.py" />
+        <option value="$PROJECT_DIR$/DCGAN-anime/utils.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1919" />
+    <option name="y" value="24" />
+    <option name="width" value="1922" />
+    <option name="height" value="1153" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DCGAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DCGAN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DCGAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DCGAN" type="462c0819:PsiDirectoryNode" />
+              <item name="DCGAN-anime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DCGAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DCGAN" type="462c0819:PsiDirectoryNode" />
+              <item name="DCGAN-mnist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DCGAN-mnist" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DCGAN-mnist" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DCGAN (1)">
+    <configuration name="DCGAN (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DCGAN-anime" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DCGAN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DCGAN-anime/DCGAN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DCGAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DCGAN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DCGAN-mnist/DCGAN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dataset (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DCGAN-anime" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DCGAN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DCGAN-anime/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DCGAN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DCGAN-mnist/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.DCGAN" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dataset" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dataset (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DCGAN (1)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.DCGAN (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dataset (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dataset" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DCGAN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c75bf15e-73da-48ac-a14b-c01b0b798d3f" name="Default" comment="" />
+      <created>1522447134874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522447134874</updated>
+    </task>
+    <task id="LOCAL-00001" summary="DCGAN">
+      <created>1525293724832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525293724832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DCGAN">
+      <created>1525293787672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525293787672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1919" y="24" width="1922" height="1153" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13489583" sideWeight="0.49591002" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822084" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25625" sideWeight="0.15699334" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3273073" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45364583" sideWeight="0.9111338" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16333152" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986479" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4078125" sideWeight="0.8430067" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1660357" sideWeight="0.50408995" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990807" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DCGAN" />
+    <option name="LAST_COMMIT_MESSAGE" value="DCGAN" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DCGAN-mnist/DCGAN.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DCGAN-anime/DCGAN.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="69" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/img71900.png" />
+    <entry file="file://$PROJECT_DIR$/images/img72000.png" />
+    <entry file="file://$PROJECT_DIR$/images/img72100.png" />
+    <entry file="file://$PROJECT_DIR$/images/img72200.png" />
+    <entry file="file://$PROJECT_DIR$/images/img72300.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81000.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81100.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81200.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81300.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81400.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81500.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81600.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81700.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81800.png" />
+    <entry file="file://$PROJECT_DIR$/images/img81900.png" />
+    <entry file="file://$PROJECT_DIR$/images/img82000.png" />
+    <entry file="file://$PROJECT_DIR$/images/img82100.png" />
+    <entry file="file://$PROJECT_DIR$/images/img82200.png" />
+    <entry file="file://$PROJECT_DIR$/images/img82300.png" />
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img13.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img17.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img21.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img23.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img27.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img29.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img34.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img38.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img40.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img43.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img45.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img49.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img47.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/images/img0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/DCGAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="135" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-mnist/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tf/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="308" column="44" lean-forward="false" selection-start-line="308" selection-start-column="44" selection-end-line="308" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/anaconda3/envs/tf/lib/python3.6/site-packages/torchvision-0.2.0-py3.6.egg!/torchvision/transforms/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tf/lib/python3.6/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="2553" column="0" lean-forward="false" selection-start-line="2553" selection-start-column="0" selection-end-line="2553" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tf/lib/python3.6/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-anime/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="78" column="20" lean-forward="false" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tf/lib/python3.6/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="366" column="0" lean-forward="false" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-anime/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-anime/DCGAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCGAN-anime/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
