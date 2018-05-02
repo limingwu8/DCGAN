@@ -1,0 +1,235 @@
+epoch: 0, G_loss: 0.6897520032905092, D_loss: 2.615435887503144
+epoch: 1, G_loss: 1.4676056828274824, D_loss: 3.3723964595154627
+epoch: 0, G_loss: 0.8885840537564066, D_loss: 2.6998224666454647
+epoch: 1, G_loss: 1.7268077887144664, D_loss: 3.6183091986099347
+epoch: 2, G_loss: 2.544700366538643, D_loss: 4.351015673387771
+epoch: 3, G_loss: 3.1390383899611916, D_loss: 4.955356028256
+epoch: 4, G_loss: 3.628336850428741, D_loss: 5.513625183361489
+epoch: 5, G_loss: 4.105795729080302, D_loss: 5.91900754454952
+epoch: 6, G_loss: 4.309818360629498, D_loss: 6.270334490193616
+epoch: 7, G_loss: 4.750088688511177, D_loss: 6.645229483610832
+epoch: 0, G_loss: 0.8404997875226424, D_loss: 2.5526032391810576
+epoch: 1, G_loss: 1.7486083099506045, D_loss: 3.4598095112999014
+epoch: 2, G_loss: 2.481375884689741, D_loss: 4.230452503934003
+epoch: 0, G_loss: 9.607448510927027, D_loss: 0.045195890060198994
+epoch: 1, G_loss: 12.413802565908174, D_loss: 1.3833986381545554e-05
+epoch: 0, G_loss: 
+ 3.1895
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.2511
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 1, G_loss: 
+ 5.2746
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+1.00000e-02 *
+  2.3563
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 6.3250
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.6418
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 3.2285
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.5912
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 2.8475
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.6963
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 1, G_loss: 
+ 2.9846
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.6223
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 2, G_loss: 
+ 3.4475
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.5336
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 3, G_loss: 
+ 3.5482
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.5131
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 4, G_loss: 
+ 3.7459
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.4925
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 5, G_loss: 
+ 4.1111
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.4167
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 6, G_loss: 
+ 3.9822
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 0.4530
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 7.2451
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 2.4327
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 6.7628
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 2.4609
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 6.6417
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 2.7932
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 7.3947
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 2.4360
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 
+ 6.8538
+[torch.cuda.FloatTensor of size () (GPU 0)]
+, D_loss: 
+ 2.8940
+[torch.cuda.FloatTensor of size () (GPU 0)]
+
+epoch: 0, G_loss: 6.764492630958557, D_loss: 2.706486463546753
+epoch: 0, G_loss: 6.951167106628418, D_loss: 2.4664440155029297
+epoch: 0, G_loss: 6.38982617855072, D_loss: 2.7149970531463623
+epoch: 0, G_loss: 7.302303433418274, D_loss: 2.5953179597854614
+epoch: 0, G_loss: 7.135599255561829, D_loss: 2.5935016870498657
+epoch: 1, G_loss: 8.886960744857788, D_loss: 1.4151498079299927
+epoch: 0, G_loss: 6.755782723426819, D_loss: 2.831359326839447
+epoch: 1, G_loss: 9.075111627578735, D_loss: 1.470140278339386
+epoch: 0, G_loss: 7.407033562660217, D_loss: 2.3229410648345947
+epoch: 1, G_loss: 9.333851099014282, D_loss: 1.2511404752731323
+epoch: 0, G_loss: 7.178080916404724, D_loss: 2.417151153087616
+epoch: 1, G_loss: 9.026258707046509, D_loss: 1.0472606122493744
+epoch: 0, G_loss: 1.0109068751335144, D_loss: 2.0866615176200867
+epoch: 1, G_loss: 1.01535964012146, D_loss: 1.9441599249839783
+epoch: 2, G_loss: 1.0069309175014496, D_loss: 1.8169605135917664
+epoch: 3, G_loss: 1.0047917664051056, D_loss: 1.7435356974601746
+epoch: 4, G_loss: 1.002383977174759, D_loss: 1.6676855087280273
+epoch: 5, G_loss: 1.0212822556495667, D_loss: 1.5978362560272217
+epoch: 6, G_loss: 1.0317172706127167, D_loss: 1.5489503145217896
+epoch: 7, G_loss: 1.0554953515529633, D_loss: 1.4708031117916107
+epoch: 8, G_loss: 1.0581892430782318, D_loss: 1.4627814888954163
+epoch: 9, G_loss: 1.0862310528755188, D_loss: 1.4173085689544678
+epoch: 10, G_loss: 1.1022351384162903, D_loss: 1.380227267742157
+epoch: 11, G_loss: 1.1016231775283813, D_loss: 1.3771497309207916
+epoch: 12, G_loss: 1.1280267238616943, D_loss: 1.347627967596054
+epoch: 13, G_loss: 1.1541158854961395, D_loss: 1.3250667750835419
+epoch: 14, G_loss: 1.1889795362949371, D_loss: 1.2889882922172546
+epoch: 15, G_loss: 1.2145692706108093, D_loss: 1.263033926486969
+epoch: 16, G_loss: 1.2483215034008026, D_loss: 1.2549636363983154
+epoch: 17, G_loss: 1.2878268659114838, D_loss: 1.2066436111927032
+epoch: 18, G_loss: 1.329307734966278, D_loss: 1.1728043854236603
+epoch: 19, G_loss: 1.3634765148162842, D_loss: 1.1564722657203674
+epoch: 20, G_loss: 1.4086670577526093, D_loss: 1.1299607157707214
+epoch: 21, G_loss: 1.464194506406784, D_loss: 1.0987003445625305
+epoch: 22, G_loss: 1.4905811548233032, D_loss: 1.0954067707061768
+epoch: 23, G_loss: 1.5452681481838226, D_loss: 1.065741628408432
+epoch: 24, G_loss: 1.5895802974700928, D_loss: 1.0132144093513489
+epoch: 25, G_loss: 1.5571433305740356, D_loss: 1.0440779626369476
+epoch: 0, G_loss: 2.3009998636174083, D_loss: 0.3441327817377344
+epoch: 1, G_loss: 4.482394439350186, D_loss: 0.036253219131436296
+epoch: 2, G_loss: 5.516815410034486, D_loss: 0.012853671585945086
+epoch: 3, G_loss: 6.435618406146118, D_loss: 0.004916341059556688
+epoch: 4, G_loss: 6.985858109240142, D_loss: 0.002967084202921649
+epoch: 5, G_loss: 7.340391083432358, D_loss: 0.0022120028378547654
+epoch: 0, G_loss: 3.372523002712078, D_loss: 0.15864586715084283
+epoch: 1, G_loss: 5.56138819247136, D_loss: 0.010632784517080785
+epoch: 2, G_loss: 6.6319554811328, D_loss: 0.003505525686848094
+epoch: 3, G_loss: 6.833496690791517, D_loss: 0.001982220973685782
+epoch: 4, G_loss: 7.833766385589498, D_loss: 0.0008714209352592737
+epoch: 5, G_loss: 8.826938325057245, D_loss: 0.0004833383408032252
+epoch: 6, G_loss: 9.464543621209707, D_loss: 0.00030620527131197656
+epoch: 7, G_loss: 9.917036758639378, D_loss: 0.0002496803286226889
+epoch: 8, G_loss: 10.368982023707217, D_loss: 0.0001499254893236432
+epoch: 9, G_loss: 10.896748676522945, D_loss: 9.94751886819829e-05
+epoch: 10, G_loss: 11.267996926538535, D_loss: 7.31252960141199e-05
+epoch: 11, G_loss: 11.570063167501969, D_loss: 4.406436153943884e-05
+epoch: 12, G_loss: 12.051765634539928, D_loss: 3.55582227794139e-05
+epoch: 0, G_loss: 1.2383130326095926, D_loss: 0.9355354895177787
+epoch: 1, G_loss: 1.629863928076819, D_loss: 0.788054599736091
+epoch: 2, G_loss: 2.276667122998102, D_loss: 0.5587111153765791
+epoch: 3, G_loss: 2.600243685739068, D_loss: 0.4813145145102216
+epoch: 4, G_loss: 2.744427067484203, D_loss: 0.4581384794142887
+epoch: 5, G_loss: 2.932679570701365, D_loss: 0.4411331088420545
+epoch: 6, G_loss: 2.960691164899151, D_loss: 0.40562560542397985
+epoch: 7, G_loss: 3.2046893545502613, D_loss: 0.35682063996294305
+epoch: 8, G_loss: 3.0967436402364448, D_loss: 0.3948716359066844
+epoch: 9, G_loss: 3.171246487827651, D_loss: 0.38446491234041813
+epoch: 10, G_loss: 3.3123883258719276, D_loss: 0.3524886178589723
+epoch: 11, G_loss: 3.1041052092196346, D_loss: 0.416348157646461
+epoch: 12, G_loss: 3.3354544778399555, D_loss: 0.3528240476556135
+epoch: 13, G_loss: 3.4590695681476435, D_loss: 0.34218799391254556
+epoch: 14, G_loss: 3.2923712129385923, D_loss: 0.35198934127472475
+epoch: 15, G_loss: 3.2680615741691126, D_loss: 0.4026451513345333
+epoch: 16, G_loss: 3.180770601374478, D_loss: 0.3872107071351129
+epoch: 17, G_loss: 3.377894487810354, D_loss: 0.38705389446676874
+epoch: 18, G_loss: 3.083839026536289, D_loss: 0.4277917725315476
+epoch: 19, G_loss: 3.067099552023192, D_loss: 0.420317748937762
+epoch: 20, G_loss: 3.228165943803692, D_loss: 0.40198492819757414
+epoch: 21, G_loss: 3.2982850771316503, D_loss: 0.3787270856147417
+epoch: 22, G_loss: 3.1526399850845337, D_loss: 0.40885763911402884
+epoch: 23, G_loss: 3.210305129832437, D_loss: 0.3979168818619892
+epoch: 24, G_loss: 3.4437655399060607, D_loss: 0.3506627718176388
+epoch: 25, G_loss: 3.1743835203088384, D_loss: 0.4205103021096407
+epoch: 26, G_loss: 3.2003883556252926, D_loss: 0.3969475167161336
+epoch: 27, G_loss: 3.3798277704216204, D_loss: 0.3714417409033628
+epoch: 28, G_loss: 3.288007032393613, D_loss: 0.4002789631143884
+epoch: 29, G_loss: 3.454884457170267, D_loss: 0.35352185436326994
+epoch: 30, G_loss: 3.4261043112917813, D_loss: 0.3776573636732336
+epoch: 31, G_loss: 3.337087767251545, D_loss: 0.3622887565541347
+epoch: 32, G_loss: 3.3262559975526966, D_loss: 0.39125983649631574
+epoch: 33, G_loss: 3.368159200193886, D_loss: 0.379276698215776
+epoch: 34, G_loss: 3.417716843506729, D_loss: 0.3800846454073272
+epoch: 35, G_loss: 3.461927326772368, D_loss: 0.3444723896122536
+epoch: 36, G_loss: 3.240685915857404, D_loss: 0.4234587737733812
+epoch: 37, G_loss: 3.4598447579722573, D_loss: 0.3523950073215022
+epoch: 38, G_loss: 3.385359353284804, D_loss: 0.40485174842303207
+epoch: 39, G_loss: 3.467066684740911, D_loss: 0.3707443101577249
+epoch: 40, G_loss: 3.522215935095324, D_loss: 0.3366077900343327
+epoch: 41, G_loss: 3.4052645515818427, D_loss: 0.38512763034284914
+epoch: 42, G_loss: 3.5748919636906686, D_loss: 0.3265862789919261
+epoch: 43, G_loss: 3.6698635312074015, D_loss: 0.3230589067435921
+epoch: 44, G_loss: 3.600321790735192, D_loss: 0.34936090248430113
+epoch: 45, G_loss: 3.597894560315573, D_loss: 0.3637967374555157
+epoch: 46, G_loss: 3.5035571330079254, D_loss: 0.3663781069977853
+epoch: 47, G_loss: 3.5957687573013004, D_loss: 0.31843539570553075
+epoch: 48, G_loss: 3.5787752829678667, D_loss: 0.36140688095173373
+epoch: 49, G_loss: 3.609382172048291, D_loss: 0.3430676313804366
