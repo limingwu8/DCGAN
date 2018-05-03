@@ -42,6 +42,8 @@ The network was trained for 200 epochs in Anime dataset.
 </table>
 
 ## References
-https://github.com/togheppi/DCGAN
-https://zhuanlan.zhihu.com/p/24767059
-https://github.com/pytorch/examples/tree/master/dcgan
+* https://github.com/togheppi/DCGAN
+
+* https://zhuanlan.zhihu.com/p/24767059
+
+* https://github.com/pytorch/examples/tree/master/dcgan
